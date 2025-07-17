@@ -49,7 +49,7 @@ Before building the dashboard, the following 10 EDA and preprocessing steps were
 
 ## Screenshots
 
-![Netflix Content Insights Dashboard]()
+![Netflix Content Insights Dashboard](https://github.com/vidhi0528/netflix-eda-visualization/blob/main/Dashboard%20Preview.png)
 
 ## Key Learnings
 
